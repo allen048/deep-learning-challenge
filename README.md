@@ -8,7 +8,9 @@ This assignment involved the knowledge of machine learning and neural networks, 
 
 ### Dats Preprocessing
 •	What variable(s) are the target(s) for your model?
+
 •	What variable(s) are the features for your model?
+
 •	What variable(s) should be removed from the input data because they are neither targets nor features?
 
 
