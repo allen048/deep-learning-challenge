@@ -6,11 +6,11 @@ This assignment involved the knowledge of machine learning and neural networks, 
 
 ## Results:
 
-### Dats Preprocessing
-•	What variable(s) are the target(s) for your model?
+### Data Preprocessing
+•	What variable(s) are the target(s) for your model? IS_SUCCESSFUL
 
-•	What variable(s) are the features for your model?
+•	What variable(s) are the features for your model? All columns except IS_SUCCESSFUL, EIN, and NAME.
 
-•	What variable(s) should be removed from the input data because they are neither targets nor features?
+•	What variable(s) should be removed from the input data because they are neither targets nor features? EIN and NAME
 
 
