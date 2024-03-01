@@ -20,6 +20,9 @@ This assignment involved the knowledge of machine learning and neural networks, 
 
 •	What steps did you take in your attempts to increase model performance? I updated the neurons to a higher optimal number of 150 in one instance and 100 in the final analysis to see if I could reach the target model performance. However, I was unsuccessful in this attempt. Also, I continued to update the layers as well which also did not aid in producing the desired result.
 
+### Summary
+The aim for this deep learning model was to acheive a target of 75%. In working with this model, it produced 73%. Even though, not being successful in achieving our target, I feel that if we continued working on this project it would optimistically be possible to reach the desired goal. Additionally, we could implement optimization algorithms, data augmentation, and hyperparameter tuning. By using these potential strategies, we could possibly improve our neural network model.
+
 
 
 
