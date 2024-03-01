@@ -35,6 +35,8 @@ Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/
 
 'Title:<AlphabetSoupCharity_Optimization_03.ipynb> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization_03.ipynb
 
+'Title:<README.md> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/deep-learning-challenge/blob/main/README.md
+
 OpenAI. (2024). ChatGPT (Mar 2024 versions) [Large language model]. https://chat.openai.com/chat
 
 
