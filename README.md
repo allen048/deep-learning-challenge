@@ -23,7 +23,7 @@ This assignment involved the knowledge of machine learning and neural networks, 
 ### Summary
 The aim for this deep learning model was to acheive a target of 75%. In working with this model, it produced 73%. Even though, not being successful in achieving our target, I feel that if we continued working on this project it would optimistically be possible to reach the desired goal. Additionally, we could implement optimization algorithms, data augmentation, and hyperparameter tuning. By using these potential strategies, we could possibly improve our neural network model.
 
-• Module 20 Challenge Citations:
+• Module 21 Challenge Citations:
 
 Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/61924?module_item_id=1077599
 
